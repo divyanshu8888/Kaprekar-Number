@@ -1,0 +1,1 @@
+This is called kaprekar number, this program prints kaprekar number in giver user inputed range
